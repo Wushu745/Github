@@ -12,7 +12,8 @@ _Иероглифы «у» и «шу» переводятся как «воен�
 - [x] Выучить форму с веером
 
 '#RRGGBB'
-@octocat :+1: This PR looks great - it's ready to merge!:shipit
+
+@octocat :+1: This PR looks great - it's ready to merge!
 
 
 
